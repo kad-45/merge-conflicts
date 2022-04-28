@@ -1,3 +1,4 @@
+LOCAL
 REMOTE
 # merge-conflicts
 merge conflicts
